@@ -36,8 +36,8 @@ It does not represent Blinkit’s official or proprietary data.
 ---
 
 ## 📷 Screenshots
-![](screenshots/Dashboard.png)  
-![](screenshots/Table-View.png)  
+![DashBoard View](screenshots/Dashboard.png)  
+![Table View](screenshots/Table-View.png)  
 
 ---
 
